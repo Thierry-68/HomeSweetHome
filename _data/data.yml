@@ -30,14 +30,12 @@ sidebar:
         link: https://artisandeveloppeur.fr/
 
 career-profile:
-    title: Career Profile
+    title: En résumé
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      De formation de base en comptabilité, ma carrière atypique a toujours évolué
+      avec pour seul objectif d'apporter des solutions aux entreprises. 
+      De ce fait, ma principal qualité est d'être force de proposition.
+       
 education:
     - degree: Bac +2 - Développeur Web php/Symfony
       university: Wild Code School Saintes (Pôle Innovation)
