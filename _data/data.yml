@@ -164,29 +164,29 @@
 
   sidebarskills:  
       title: Compétences
-      
+
       toolset:
         - name: Php
           level: 98%
-      toolset:
+      
         - name: Html 5
           level: 98%
-      toolset:
+      
         - name: Css 3
           level: 98%
-      toolset:
+      
         - name: Git
           level: 98%
-      toolset:
+      
         - name: Symfony 5
           level: 98%
-      toolset:
+      
         - name: Javascript (EcmaScript 6)
           level: 98%
-      toolset:
+      
         - name: Bootstrap 5
           level: 98%
-      toolset:
+      
         - name: Agile /Scrum
           level: 98%                     
       
