@@ -13,71 +13,46 @@ sidebar:
 
     # Sidebar links
     email: thierry.sandre68@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    linkedin: thierry-sandré-7456a938
+   
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+    goodreads: # Number-Username, e.g. 123456-alandoe 
 
     interests:
-      - item: Climbing
+      - item: Robotic / Drone / Impression 3D
+        link: https://cults3d.com/fr/mod%C3%A8le-3d/gadget/coque-de-protection-de-drone-dji-f450
+
+      - item: Numeric Responsable / Inclusivité
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: OpenSource / Agilité / Artisan Developpeur
+        link: https://artisandeveloppeur.fr/
 
 career-profile:
-    title: Career Profile
+    title: En résumé
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      De formation de base en comptabilité, ma carrière atypique a toujours évolué
+      avec pour seul objectif d'apporter des solutions aux entreprises. 
+      De ce fait, ma principale qualité est d'être force de proposition.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+     - degree: Bac +2 - Développeur Web php/Symfony
+      university: Wild Code School Saintes (Pôle Innovation)
+      time: 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Developpement 
+    - degree: Bac +3 - Concepteur Developpeur Informatique
+      university: Afpa Brive-La-Gaillarde
+      time: 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Développement basé sur la technologie MicroSoft (Asp.net,c#,MVC4, Framework Entity),
+        Gestion et Conception de base de données (Sql server). 
+    - degree: Bac +2 - Technicien Supérieur Gestionnaire de Ressources Informatiques
+      university: Afpa Rochefort (17)
+      time: 2006
+      details: |
+        Maintenance du parc materiels, gestion du reseaux (serveur, switch)
+        Gestion et conception de base de données (Sql server).
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -186,6 +161,36 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+
+sidebarskills:  
+  title: Compétences
+    
+    toolset:
+      - name: Php
+        level: 98%
+    toolset:
+      - name: Html 5
+        level: 98%
+    toolset:
+      - name: Css 3
+        level: 98%
+    toolset:
+      - name: Git
+        level: 98%
+    toolset:
+      - name: Symfony 5
+        level: 98%
+    toolset:
+      - name: Javascript (EcmaScript 6)
+        level: 98%
+    toolset:
+      - name: Bootstrap 5
+        level: 98%
+    toolset:
+      - name: Agile /Scrum
+        level: 98%                     
+    
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
