@@ -36,16 +36,13 @@
 
   <div id="slider">
     <figure>
-      {% for project in projects.assignments %}
-        <div class="container-img">
+      {% for project in projects.assignments %}       
           <img src="{{ site.baseurl }}/assets/images/slides/{{project.image}}" alt="{{ project.title }}">
-        </div>
-      {% endfor %} 
-       
+      {% endfor %}        
     </figure>
   </div>
 
-
+  <button type="button" class="btn btn-primary">Primary</button>
 
 
 </section><!--//section-->
