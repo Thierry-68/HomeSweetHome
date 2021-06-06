@@ -142,10 +142,10 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-
-skills2:
-
+        
+skills2:  
   title: Compétences
+
     toolset:
       - name: Php
         level: 98%
