@@ -15,6 +15,7 @@ div#slider{
     margin:auto;
     height: var(--height-slide);    
     max-width: var(--width-slide);
+    border-radius: 10px;
 }
 
 div#slider figure{
@@ -31,6 +32,9 @@ div#slider figure img{
     width: 20%; //20%
     height: auto;
     float:left;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
 }
 
 
