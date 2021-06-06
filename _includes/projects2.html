@@ -38,8 +38,9 @@
     <figure>
       {% for project in projects.assignments %}
         <img src="{{ site.baseurl }}/assets/images/slides/{{project.image}}" alt="{{ project.title }}">
-        {% endfor %} 
         <figcaption>{{project.title}}</figcaption>
+        {% endfor %} 
+       
     </figure>
 </div>
 
