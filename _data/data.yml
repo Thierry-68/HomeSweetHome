@@ -60,7 +60,8 @@
         details: |
           Développement d'application web basé sur la technologie
           web Symfony, Twig, Doctrine(ORM), MySql, Bootsrap, Sass,
-          Javascript (vanila, Jquery, node.js). Projet de groupe enmode scrum.
+          Javascript (vanila, Jquery, node.js). Projet de groupe en
+          mode scrum.
       - role: Développement d’une application web métiers (C#/Asp.net)
         time: 2016 - 12 mois
         company: Société EuroInformatique à Bordeaux (33)
@@ -205,7 +206,7 @@
         - name: Symfony 5
           image: 98%
       
-        - name: Javascript (EcmaScript 6)
+        - name: Javascript (ECMAScript 6)
           image: 98%
       
         - name: Bootstrap 5
