@@ -13,48 +13,71 @@ sidebar:
 
     # Sidebar links
     email: thierry.sandre68@gmail.com
-    linkedin: thierry-sandré-7456a938
-   
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe    
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Robotic / Drone / Impression 3D
-        link: https://cults3d.com/fr/mod%C3%A8le-3d/gadget/coque-de-protection-de-drone-dji-f450
-
-      - item: Numeric Responsable / Inclusivité
+      - item: Climbing
         link:
 
-      - item: OpenSource / Agilité / Artisan Developpeur
-        link: https://artisandeveloppeur.fr/
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
-    title: En résumé
+    title: Career Profile
     summary: |
-      De formation de base en comptabilité, ma carrière atypique a toujours évolué
-      avec pour seul objectif d'apporter des solutions aux entreprises. 
-      De ce fait, ma principale qualité est d'être force de proposition.
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Bac +2 - Développeur Web php/Symfony
-      university: Wild Code School Saintes (Pôle Innovation)
-      time: 2021
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        Developpement 
-    - degree: Bac +3 - Concepteur Developpeur Informatique
-      university: Afpa Brive-La-Gaillarde
-      time: 2012
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Développement basé sur la technologie MicroSoft (Asp.net,c#,MVC4, Framework Entity),
-        Gestion et Conception de base de données (Sql server). 
-    - degree: Bac +2 - Technicien Supérieur Gestionnaire de Ressources Informatiques
-      university: Afpa Rochefort (17)
-      time: 2006
-      details: |
-        Maintenance du parc materiels, gestion du reseaux (serveur, switch)
-        Gestion et conception de base de données (Sql server).
-     
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -94,7 +117,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projets
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -120,8 +143,30 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
-    title: Compétences
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
