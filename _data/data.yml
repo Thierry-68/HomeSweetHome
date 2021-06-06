@@ -141,6 +141,11 @@
           link: "#"
           tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
           image: "Image_0004.jpg"
+        
+        - title: Site presentation d'une activité d'un CyberCafé - Travail de groupe 
+          link: "#hook"
+          tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          image: "Image_0001.jpg"  
 
   publications:
       title: Publications
