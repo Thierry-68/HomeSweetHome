@@ -125,18 +125,22 @@
         - title: Site presentation d'une activité d'un CyberCafé - Travail de groupe 
           link: "#hook"
           tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          image: "Image_0001.jpg"
 
         - title: Chaque semaine, des producteurs et maraîchers proposent leurs produits aux membres d’une association sous la forme de paniers et de colis.
           link: "#"
           tagline: "A responsive website template designed to help web developers/designers market their services."
+          image: "Image_0002.jpg"
 
         - title: Hackathon - Persévérance (Percy) et Ingéniosité (Ginny), les deux compagnons qui ont atterri sur Mars le 18 février 2021, se sentent assez ennuyés et seuls dans le vaste cratère Jezero. Pendant leur temps libre, ils décident de créer une application pour faire face à leur solitude. Quelle sera cette application ? Soyez créatif et amusez-vous, Wilders
           link: "#"
           tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          image: "Image_0003.jpg"
 
         - title: Projet professionnel - Plateforme de mise en relation entre le consomateur et le professionnel
           link: "#"
           tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+          image: "Image_0004.jpg"
 
   publications:
       title: Publications
