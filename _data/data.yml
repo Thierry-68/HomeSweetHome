@@ -54,45 +54,66 @@
           Maintenance du parc materiels, gestion du reseaux (serveur, switch)
           Gestion et conception de base de données (Sql server).
   experiences:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Développement application PHP/SYMFONY
+        time: 2021 - 5 mois
+        company: Wild Code School à Saintes (17)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Développement d'application web basé sur la technologie
+          web Symfony, Twig, Doctrine(ORM), MySql, Bootsrap, Sass,
+          Javascript (vanila, Jquery, node.js). Projet de groupe enmode scrum.
+      - role: Développement d’une application web métiers (C#/Asp.net)
+        time: 2016 - 12 mois
+        company: Société EuroInformatique à Bordeaux (33)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          * Développement d'une application web de missionnement
+          de cabinet expertise en assurance par les mandataires en
+          c#, MVC5, bootstrap (responsive), WCF.
+          * Participer au développement d’une application web pour
+          le monde de l’assurance en Vb.net, asp.net.
+      - role: Développement d’une application web métiers (C#/Asp.net)
+        time: 2015 (10 mois)
+        company: Société EuroInformatique à Bordeaux (33)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          * Développement d'une application web de missionnement de
+          cabinet expertise en assurance par les mandataires en C#,
+          MVC5, Bootstrap (responsive), WCF.
+          * Participer au développement d’une application web pour le
+          monde de l’assurance en Vb.net, asp.net.          
+      - role: Développement d’une application web métiers (C#/Asp.net)
+        time: 2013 (6 mois)
+        company: Société Am-Créations à La Rochelle (17)
+        details: |
+          Développer une application de Gestion de projet d’une
+          agence de développement en asp.net / C # / MVC3 / razor.
+      - role: Développement d’une application web métiers (C#/Asp.net)
+        time: 2012 (5 mois)
+        company: Société EuroInformatique à Bordeaux (33)
+        details: |
+          Participer au développement d’une application web pour
+          le monde de l’assurance en Vb.net, asp.net.
+      - role: Développement d’une application web métiers (C#/Asp.net)
+        time: 2012 (3 mois)
+        company: Société Alternetis (Groupe Inseco) à Poitiers (86)
+        details: |
+          Concevoir, développer une application asp.net, c#,
+          mvc3,razor pour le suivi de formations en complément du
+          CRM de Sage 100.
+      - role: Administrateur réseau informatique
+        time: 2007 (3 ans)
+        company: Lycée professionnel de Rompsay à La Rochelle (17)
+          Administration 7 baies de brassage  sur 2 hectares, 
+          d'un reseau pedagogique.
+      - role: Analyse et apport de solutions réseaux 
+        time: 2007 (3 ans)
+        company: Au système d'information de la DDSV et DDAF
+          Mise en place d'une solution terminal server(acces distant),
+          analyse de migration de serveur de données NT vers Linux.
+      - role: Assistant-Comptable 
+        time: 1993 (3 ans)
+        company: Au CEFIGECO à Jonzac(17)                    
+          
   projects:
-      title: Projects
+      title: Projet Php/Symfony
       intro: >
         You can list your side projects or open source libraries in this
         section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -167,28 +188,28 @@
 
       toolset:
         - name: Php
-          level: 98%
+          image: 98%
       
         - name: Html 5
-          level: 98%
+          image: 98%
       
         - name: Css 3
-          level: 98%
+          image: 98%
       
         - name: Git
-          level: 98%
+          image: 98%
       
         - name: Symfony 5
-          level: 98%
+          image: 98%
       
         - name: Javascript (EcmaScript 6)
-          level: 98%
+          image: 98%
       
         - name: Bootstrap 5
-          level: 98%
+          image: 98%
       
         - name: Agile /Scrum
-          level: 98%                     
+          image: 98%                     
       
 
 
