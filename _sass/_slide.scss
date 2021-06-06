@@ -1,26 +1,47 @@
-/* set the size of image */
 :root{
     --height-slide:600px;
     --width-slide:800px;
+    --dark-color:#333;
+    --background-texte:rgba(255, 255, 255, 0.5);
 }
 
 body{
-    background-color: rgb(204, 204, 38);
+    background-color: beige;
 }
-    
-div#slider{
-    width: 80%;// 80%
+
+div.slider figure.slider_figure{
+    position: absolute;
+    width:500%;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    text-align: left;
+    animation: slide_country 20s infinite;   
+}
+
+div.slider figure.slider_figure img{
+    width: 20%;
+    height: auto;
+    float:left;
+}
+
+div.slider{
+    width: 80%;
     overflow: hidden;
     position: relative;
     margin:auto;
-    height: var(--height-slide);    
     max-width: var(--width-slide);
-    border-radius: 10px;
+    height: var(--height-slide);
 }
 
-div#slider figure{
+/*
+                    Nouveau Slide
+  */
+div.container{
+    display: flex;
+    flex-direction: row;
     position: absolute;
-    width:500%;//500%
+    width:100vw;
     margin: 0;
     padding: 0;
     font-size: 0;
@@ -28,14 +49,23 @@ div#slider figure{
     animation: slide_country 20s infinite;
 }
 
-div#slider figure img{
-    width: 20%;
-    height: auto;
-    float:left;   
-    border-radius: 10px;
-    border-width: 1px;
-    border-style: solid;
-} 
+div.container_img div{    
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    color: var(--dark-color);
+    font-size: 25px;
+    text-align: center;
+    background-color: var(--background-texte);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.container_img{
+    position: relative;
+}
 
 
 @keyframes slide_country{
@@ -49,3 +79,4 @@ div#slider figure img{
     95%     { left: -300%}
     100%    { left: -400%}
 }
+
