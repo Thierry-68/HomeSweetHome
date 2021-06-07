@@ -32,6 +32,11 @@ div.container{
     animation: slide_country 20s infinite;
 }
 
+
+div.container_img{
+    position: relative;
+}
+
 div.container_img div{    
     height: 100px;
     width: 100%;
@@ -46,8 +51,8 @@ div.container_img div{
     align-items: center;
 }
 
-div.container_img{
-    position: relative;
+div.container_img img{
+    width: 100%;
 }
 
 
