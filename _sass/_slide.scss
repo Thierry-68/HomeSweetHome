@@ -9,22 +9,6 @@ body{
     background-color: beige;
 }
 
-div.slider figure.slider_figure{
-    position: absolute;
-    width:500%;
-    margin: 0;
-    padding: 0;
-    font-size: 0;
-    text-align: left;
-    animation: slide_country 20s infinite;   
-}
-
-div.slider figure.slider_figure img{
-    width: 20%;
-    height: auto;
-    float:left;
-}
-
 div.slider{
     width: 80%;
     overflow: hidden;
