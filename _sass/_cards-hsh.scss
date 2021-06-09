@@ -30,8 +30,7 @@
 
 .card-hsh-body
 {    
-    flex:4;    
-    background-color: bisque;
+    flex:4;  
 }
 
 .card-hsh-body h5{
@@ -46,6 +45,22 @@
 
 .card-hsh-footer{
     flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-hsh-footer button{
+    background-color: --var($theme-color);
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-color: --var($text-color:);
+}
+
+@media only screen and (max-width: 800px){
+    .card-hsh{
+        width: 100%;
+    }
 }
 
 
