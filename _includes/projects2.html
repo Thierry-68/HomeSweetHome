@@ -45,18 +45,22 @@
         {% endfor %}       
     </div>
 </div>  
-
-<div class="card-hsh">
-  <div class="card-hsh-head">
-
-  </div>
-  <div class="card-hsh-body">
-
-  </div>
-  <div class="card-hsh-footer">
-
-  </div>
+<div class="cart-hsh-container">
+  {% for project in projects.assignments %}
+    <div class="card-hsh">
+      <div class="card-hsh-head">
+        head
+      </div>
+      <div class="card-hsh-body">
+        body
+      </div>
+      <div class="card-hsh-footer">
+        footer
+      </div>
+    </div>
+  {% endfor %} 
 </div>
+
 
 </section><!--//section-->
 {% endif %}
