@@ -8,12 +8,11 @@
 }
 
 .card-hsh{
-    width:46%;
+    width:48%;
     height: 500px;
-    background-color: aquamarine;
     display: flex;
     flex-direction: column;
-    margin:2%;
+    margin:1%;
     padding:0;
     border: #edebeb 2px solid;
     border-radius: 5px;
@@ -21,7 +20,6 @@
 }
 
 .card-hsh-header{
-    background-color: coral;
     flex:1;
 }
 
@@ -31,8 +29,7 @@
 }
 
 .card-hsh-body
-{
-    background-color: crimson;
+{    
     flex:3;    
 }
 
@@ -47,7 +44,6 @@
 }
 
 .card-hsh-footer{
-    background-color: darksalmon;
     flex:1;
 }
 
