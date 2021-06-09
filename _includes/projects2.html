@@ -49,10 +49,12 @@
   {% for project in projects.assignments %}
     <div class="card-hsh">
       <div class="card-hsh-head">
-        head
+        <img src="{{ site.baseurl }}/assets/images/{{project.image}}" alt="">
       </div>
       <div class="card-hsh-body">
-        body
+        <h5 class="card-title">{{project.title}}</h5>
+    <p class="card-text">{{project.tagline}}</p>
+    
       </div>
       <div class="card-hsh-footer">
         footer
