@@ -51,10 +51,10 @@
 }
 
 .card-hsh-footer button{
-    background-color: --var($theme-color);
+    background-color: $theme-color;
     padding: 5px 10px;
     border-radius: 5px;
-    border-color: --var($text-color);
+    border-color: $text-color;
 }
 
 @media only screen and (max-width: 800px){
