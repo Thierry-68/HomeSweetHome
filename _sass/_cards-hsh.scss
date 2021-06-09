@@ -5,12 +5,12 @@
     flex-wrap: wrap;
     padding: 0;
     margin: 0;
+    height: 1100px;
 }
-
 
 .card-hsh{
     width:46%;
-    height: 300px;
+    height: 500px;
     background-color: aquamarine;
     display: flex;
     flex-direction: column;
@@ -32,11 +32,23 @@
 .card-hsh-body
 {
     background-color: crimson;
-    flex:3;
+    flex:3;    
+}
+
+.card-hsh-body h5{
+    padding: 5px;
+    text-align: justify;
+}
+
+.card-hsh-body p{
+    padding: 5px;
+    text-align: justify;
 }
 
 .card-hsh-footer{
     background-color: darksalmon;
     flex:1;
 }
+
+
 
