@@ -14,14 +14,19 @@
     background-color: aquamarine;
     display: flex;
     flex-direction: column;
-    margin:0;
-    padding:0;
+    margin:2%;
+    padding:5%;
+    border:#333 1px solid;
 }
 
 .card-hsh-header{
     background-color: coral;
     flex:1;
+}
 
+.card-hsh-header img{
+    width: 100%;
+    height: auto;
 }
 
 .card-hsh-body
