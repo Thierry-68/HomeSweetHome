@@ -1,3 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
 .cart-hsh-container{
     width: 100%;  
     display: flex;
@@ -73,6 +75,11 @@
     width: 150px;
     height: 42px;
 }
+
+.css-button a{
+    margin: auto;
+}
+
 .css-button:hover {
 	background: linear-gradient(180deg, #468CCF 5%, #63B8EE 100%);
 }
