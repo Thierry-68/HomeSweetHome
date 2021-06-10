@@ -9,7 +9,7 @@
 
 .card-hsh{
     width:48%;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     margin:1%;
@@ -57,10 +57,29 @@
     border-color: $text-grey;
 }
 
-@media only screen and (max-width: 800px){
-    .card-hsh{
-        width: 100%;
-    }
+.css-button {
+	font-family: Arial;
+	color: #FFFFFF;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px #3866a3 solid;
+	background: linear-gradient(180deg, #63B8EE 5%, #468CCF 100%);
+	text-shadow: 1px 1px 1px #528ecc;
+	box-shadow: inset 1px 1px 2px 0px #bbdaf7;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+}
+.css-button:hover {
+	background: linear-gradient(180deg, #468CCF 5%, #63B8EE 100%);
+}
+.css-button-icon {
+	padding: 10px 10px;
+	border-right: 1px solid rgba(255, 255, 255, 0.16);
+	box-shadow: rgba(0, 0, 0, 0.14) -1px 0px 0px inset;
+}
+.css-button-text {
+	padding: 10px 18px;
 }
 
 
