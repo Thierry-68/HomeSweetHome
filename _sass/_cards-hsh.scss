@@ -6,7 +6,7 @@
     flex-wrap: wrap;
     padding: 0;
     margin: 0;
-    height: 3000px;
+    height: 2500px;
 }
 
 .card-hsh{
@@ -31,7 +31,7 @@
 
 .card-hsh-body
 {    
-    flex:4;  
+    flex:3;  
 }
 
 .card-hsh-body h5{
@@ -53,9 +53,9 @@
 
 .css-button {
 	font-family: Arial;
-	color: #FFFFFF;
+	color: #edebeb;
 	font-size: 16px;	
-	background: #468CCF;    
+	background: #2d7788;    
 	cursor: pointer;
 	display: inline-flex;
 	align-items: center;
@@ -65,8 +65,9 @@
 
 .css-button a{
     margin: auto;
-    text-decoration: underline;
+    text-decoration: none;
     outline: none;
+    color: #edebeb;
 }
 
 
