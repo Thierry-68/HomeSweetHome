@@ -32,9 +32,9 @@
   career-profile:
       title: En résumé
       summary: |
-        De formation de base en comptabilité, ma carrière atypique a toujours évolué
-        avec pour seul objectif d'apporter des solutions aux entreprises. 
-        De ce fait, ma principale qualité est d'être force de proposition.
+       A l'origine de formation comptable, j'ai su saisir les opportunités qui se sont présentées à moi. 
+       A chacune d'elles l'objectif principal était de pouvoir 'être force de proposition et d'apporter des solutions 
+       pour répondre à l'attente des entrepreneurs.
   education:
       - degree: Bac +2 - Développeur Web php/Symfony
         university: Wild Code School Saintes (Pôle Innovation)
