@@ -126,21 +126,25 @@
           link: "https://pop-culture.easy-soluce.fr/"
           tagline: "Php - Html5  Repsonsive - CSS3 - Sass - Animate Css"
           image: "pop-culture.jpg"
+          titleButton: "Demo Site"
 
         - title: Chaque semaine, des producteurs et maraîchers proposent leurs produits aux membres d’une association sous la forme de paniers et de colis.
           link: "#"
           tagline: "PHP MVC - Html 5 - Sass - MySql."
           image: "amap.jpg"
+          titleButton: "prochainement sur site" 
 
         - title: Hackathon - Persévérance et Ingéniosité, les deux robot qui ont atterri sur Mars, se sentent assez ennuyés et seuls.Ils décident de créer une application pour faire face à leur solitude. Quelle sera cette application ?
           link: "#"
           tagline: "PHP MVC - Html 5 responsive - CSS 3 - API NASA"
           image: "quizz-laika.jpg"
+          titleButton: "prochainement sur site" 
 
         - title: Projet professionnel - Plateforme de mise en relation entre le consomateur et le professionnel
           link: "#"
           tagline: "Php/Symfony - Boostrap - Création - API : OpenStreetMap / Wireframes et maquettes : Excalidraw, Figma."
-          image: "Image_0004.jpg"        
+          image: "Image_0004.jpg"  
+          titleButton: "prochainement sur site"      
 
   publications:
       title: Publications
