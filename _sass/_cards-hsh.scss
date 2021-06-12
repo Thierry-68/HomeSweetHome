@@ -90,6 +90,22 @@
 .noaccess p{
     color: #333;
     font-weight: bolder;
+    z-index: 2;
+}
+
+.bkgwhite{
+    background-color: #EEE;
+    width: 25%;
+    height: 40%;
+    position: absolute;
+    top: 10%;
+    margin: auto;
+    left: 25%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
 }
 
 
