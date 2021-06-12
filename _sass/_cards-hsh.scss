@@ -91,16 +91,19 @@
     color: #333;
     font-weight: bolder;
     z-index: 2;
+    background-color: black;
+    color: white;
+    padding: 5px;
 }
 
 .bkgwhite{
     background-color: #EEE;
-    width: 25%;
+    width: 20%;
     height: 40%;
     position: absolute;
-    top: 10%;
+    top: 30%;
     margin: auto;
-    left: 25%;
+    left: 40%;
     border-radius: 50%;
     display: flex;
     justify-content: center;
