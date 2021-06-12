@@ -21,7 +21,7 @@
 
 .card-hsh-header{
     flex:1;
-    border-radius: 10px 10px 0 0;
+    position: relative;
 }
 
 .card-hsh-header img{
@@ -75,8 +75,21 @@
 
 .noaccess{
     background-color: rgb(255, 0, 0);
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    top: 20%;
+    margin: auto;
+    left: 35%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.noaccess p{
+    color: #333;
+    font-weight: bolder;
 }
 
 
