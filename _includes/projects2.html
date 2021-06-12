@@ -21,11 +21,13 @@
     <div class="card-hsh">
       <div class="card-hsh-header">
         <img src="{{ site.baseurl }}/assets/images/{{project.image}}" alt="">
-      </div>
+     {% if project.titleButton=="En cours" %}
+        <div class="noaccess">NO ACCESS</div>
+      {% endif %}  
+    </div>
       <div class="card-hsh-body">
         <h5 class="card-title">{{project.title}}</h5>
-    <p class="card-text">{{project.tagline}}</p>
-    
+          <p class="card-text">{{project.tagline}}</p>    
       </div>
       <div class="card-hsh-footer">
         <div class="css-button"><a target="_blank" href="{{project.link}}">{{project.titleButton}}</a></div>
