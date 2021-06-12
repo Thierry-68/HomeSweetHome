@@ -90,7 +90,7 @@
 .noaccess p{
     color: #333;
     font-weight: bolder;
-    z-index: 2;
+    z-index: 3;
     background-color: black;
     color: white;
     padding: 5px;
@@ -111,6 +111,15 @@
     z-index: 1;
 }
 
+.redbarre{
+    background-color: red;
+    position: absolute;
+    width: 90%;
+    height: 15%;
+    z-index: 2;
+    transform: rotate(45deg);
+    margin: 5%;
+}
 
 
 
